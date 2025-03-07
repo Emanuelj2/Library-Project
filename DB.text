@@ -1,0 +1,38 @@
+//This is the SQL code 
+//you need to insert this code into MySQLworkbench to generate the tables needed
+
+--use library;
+-- CREATE TABLE Books (
+--   ISBN VARCHAR(20) PRIMARY KEY,
+--    Book_Title VARCHAR(255),
+--    Book_Author VARCHAR(255),
+--    Year_Of_Publication INT,
+--    Publisher VARCHAR(255),
+--    status VARCHAR(50) DEFAULT 'available'
+-- );
+-- ALTER TABLE books_data ADD COLUMN borrowed_by VARCHAR(255) DEFAULT NULL;
+
+-- CREATE TABLE deleted_books (
+--    id INT AUTO_INCREMENT PRIMARY KEY,
+--    ISBN VARCHAR(20),
+--    Book_Title VARCHAR(255),
+--    Book_Author VARCHAR(255),
+--    Year_Of_Publication INT,
+--    Publisher VARCHAR(255),
+--    status VARCHAR(50),
+--    deleted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+-- );
+
+-- CREATE TABLE Users (
+--    id INT PRIMARY KEY AUTO_INCREMENT,
+--    username VARCHAR(255) UNIQUE NOT NULL,
+--    password VARCHAR(255) NOT NULL
+-- );
+
+-- Enable MySQL Event Scheduler
+-- SET GLOBAL event_scheduler = ON;
+
+-- CREATE EVENT delete_old_books
+-- ON SCHEDULE EVERY 2 MINUTE
+-- DO
+-- DELETE FROM deleted_books WHERE deleted_at < NOW() - INTERVAL 10 MINUTE;
