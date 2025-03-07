@@ -1,0 +1,82 @@
+ISBN,Book_Title,Book_Author,Year_Of_Publication,Publisher,status,borrowed_by
+140072144,"Before the Mayflower","Lerone Bennett",1984,"Penguin Books",available,NULL
+451455975,"Double-Blind (Battle Tech , No 31)","Loren L. Coleman",1997,Roc,available,NULL
+842354050,Lullaby,"Jane Orcutt",2002,"Tyndale House Publishers","checked out",eman
+312989717,Acrobat,"Gonzalo Lira",2003,"St. Martin's Paperbacks","checked out",eman
+895866595,"I Hate You - Don't Leave Me","Jerold J. Kreisman",1989,"Berkley Pub Group",available,NULL
+373118902,"Finn'S Twins! (From Here To Paternity) (From Here to Paternity)","Ann McAllister",1997,Harlequin,available,NULL
+1551665743,"Mackenzie'S Mountain","Linda Howard",2000,Mira,available,NULL
+373055900,"Ready, Willing And Abel (Harlequin Desire, No 90)","Nancy Martin",1990,Silhouette,available,NULL
+451628454,"Other Voices, Other Vistas: Short Stories from Africa, China, India, Japan, and Latin America","Barbara H. Solomon",1996,"Signet Book",available,NULL
+380772906,"Lord of Thunder (An Avon Romantic Treasure)","Emma Merritt",1994,"Harper Mass Market Paperbacks (Mm)",available,NULL
+451191315,"The Pact","Hilary Norman",1998,"Onyx Books",available,NULL
+785272267,"Take the Reins: A Father Teaches His Son About Life, Commitment and Spirituality","John L. Moore",1997,"Thomas Nelson Inc",available,NULL
+702025445,"Breastfeeding Special Care Babies","Sandra Lang",2002,"W B Saunders",available,NULL
+440401348,"Spectacular Stone Soup (Giff, Patricia Reilly. New Kids of the Polk Street School, 5.)","Patricia Reilly Giff",1989,"Yearling Books",available,NULL
+62503952,"The Dancing Healers : A Doctor's Journey of Healing with Native Americans","Carl A. Hammerschlag",1989,HarperSanFrancisco,available,NULL
+694524352,"In Harm's Way","Doug Stanton",2001,HarperAudio,available,NULL
+971922152,"Anatomy of A Life Possessed","Maria Ferrara Pema",2002,"Winner Episode Press",available,NULL
+441141684,"Death by Dreaming","Jon Manchip White",1982,"Ace Books",available,NULL
+816710058,"How to Draw Zoo Animals (How to Draw (Troll))","Jocelyn Schrelber",1987,"Troll Communications",available,NULL
+1578561272,"Fair Is the Rose (Higgs, Liz Curtis)","LIZ CURTIS HIGGS",2004,"WaterBrook Press",available,NULL
+811716023,"Too Afraid to Cry: Maryland Civilians in the Antietam Campaign","Kathleen Ernst",1999,"Stackpole Books",available,NULL
+852235194,"The Time-effective Manager: The Thirty-Day Self-Organising Plan","Michael Bird",1986,"Vintage/Ebury (A Division of Random House Group)",available,NULL
+6372570,"Don't Ask the Price: The Memoirs of the President of Marks &amp; Spencer","Marcus Sieff",1988,"HarperCollins Publishers",available,NULL
+416178006,"The Taming of the Shrew (Shakespeare, William, Works.)","William Shakespeare",1982,Routledge,available,NULL
+517009544,"The Curse","Carl Sherrell",1989,"Random House Trade Paperbacks",available,NULL
+671450344,"HIGHLAND VELVET","Jude Deveraux",1982,Pocket,available,NULL
+141309199,"Slam (Alloy Books)","Cecily Von Ziegesar",2000,"Puffin Books",available,NULL
+1569711453,"Legend of Mother Sarah: Tunnel Town","Katsuhiro Otomo",1996,"Dark Horse Comics",available,NULL
+1400030951,"Office of Innocence : A Novel","THOMAS KENEALLY",2004,Anchor,available,NULL
+312291450,"If Chins Could Kill : Confessions of a B Movie Actor","Bruce Campbell",2002,"L.A. Weekly Books",available,NULL
+884115275,"Life With Father","Clarence Day",1981,"Amereon Ltd",available,NULL
+553248944,"Skystalker (Be An Interplanetary Spy No. 12)","Len Neufeld",1985,"Bantam Books",available,NULL
+448410869,"Peter Cottontail","Karen Schmidt",1996,"Grosset &amp; Dunlap",available,NULL
+821737155,"Hidden Touch","Virginia Brown",1992,"Zebra Books",available,NULL
+449205339,"Those Endearing Young Charms","Marion Chesney",1986,"Fawcett Books",available,NULL
+373059086,"Dad Like Daniel (From Here To Maternity) (Silhouette Desire, No 908)","Elizabeth Bevarly",1995,Silhouette,available,NULL
+441011462,"Angelica: A Novel of Samaria","Sharon Shinn",2004,"Ace Books",available,NULL
+563487771,"When Will I Be Famous: Travels Through the Dark Side of Show Business","Martin Kelner",2003,BBC,available,NULL
+60247339,"Reef of Death","Paul Zindel",1998,HarperCollins,available,NULL
+500014345,"Hamster Opera Company","Janis Mitchell",1988,"W W Norton &amp; Co Inc",available,NULL
+345314867,"The Summer of Katya",Trevanian,1984,"Ballantine Books",available,NULL
+1893896838,"Immortal Image","Jaye Roycraft",2003,"Imajinn Books",available,NULL
+440412137,"The Royal Switch","Sarah Ferguson",1997,"Yearling Books",available,NULL
+374357366,"Paper Doll","Elizabeth Feuer",1990,"Farrar Straus &amp; Giroux",available,NULL
+450524604,Rain,"Stephen Gallagher",1990,"Hodder &amp; Stoughton General Division",available,NULL
+811214524,"A Heart So White","Javier Marias",2000,"New Directions Publishing Corporation",available,NULL
+1570623953,"Lao Tzu : Tao Te Ching : A Book About the Way and the Power of the Way","URSULA K. LE GUIN",1998,Shambhala,available,NULL
+590456571,"Keep Out, Claudia! (Baby-Sitters Club, 56)","Ann M. Martin",1993,Scholastic,available,NULL
+688059457,"The Puppy Who Wanted a Boy","Jane Thayer",1986,"HarperCollins Publishers",available,NULL
+614154898,Darksaber,"Kevin J. Anderson",1995,"Bantam Books",available,NULL
+801975174,"The MBA Toolkit (Chilton's Better Business Series)","Walter Hilker",1985,"Chilton Book Company",available,NULL
+809239264,"Unbelievably Good Deals and Great Adventures That You Absolutely Can't Get Unless You're over 50 (4th Ed)","Joan Rattner Heilman",1992,"Contemporary Books",available,NULL
+1587217007,"Nicholas Bing, the Popcorn King","Janet L. Weilein",2000,"1stBooks Library",available,NULL
+671497634,"And You Give Me a Pain, Elaine","Stella Pevsner",1983,"Pocket Books",available,NULL
+373230133,"When Duty Calls: 2 Novels in 1","Joanna Wayne",2003,Harlequin,available,NULL
+385479522,"Blue Dawn, Red Earth: New Native American Storytellers","Clifford E. Trafzer",1996,"Anchor Pub",available,NULL
+1567310990,"The Garden of the Finzi-Continis: A Novel (Library of the Holocaust)","Giorgio Bassani",1997,"MJF Books",available,NULL
+1931742200,"Solomon's Decision","Judith B. Glad",2002,"Treble Heart Books",available,NULL
+860686191,"Emily Dickinson (Virago pioneers)","Helen McNeil",1986,Virago,available,NULL
+674792912,"Science in Action: How to Follow Scientists and Engineers Through Society","Bruno Latour",1988,"Harvard University Press",available,NULL
+865714452,"Visionaries: People &amp; Ideas to Change Your Life (Utne Reader Books, 2)","Jay Walljasper",2001,"New Society Publishers",available,NULL
+821750410,"Warrior Moon","Sara Orwig",1995,"Zebra Books",available,NULL
+152023895,"Mr. Putter &amp; Tabby Take the Train","Cynthia Rylant",2000,"Harcourt Paperbacks",available,NULL
+785727345,"Loves Music, Loves to Dance","Mary Higgins Clark",1999,"Sagebrush Bound",available,NULL
+140034919,"I'm the King of the Castle","Susan Hill",1977,"Penguin USA",available,NULL
+380718154,"Getting to 'I Do'","Pat Allen",1995,"Perennial Currents",available,NULL
+1861976364,"War on Iraq","Scott Ritter",2002,"Profile Books",available,NULL
+688109136,"Snow White, Blood Red (Avonova Book)","Ellen Datlow",1993,Harpercollins,available,NULL
+743225228,"Tempting Faith DiNapoli : A Novel","Lisa Gabriele",2002,"Simon &amp; Schuster",available,NULL
+553248731,"Evidence of Love","John Bloom",1985,"Bantam Books",available,NULL
+373192959,"Falling For A Father Of Four (Fabulous Fathers/This Side Of Heaven) (Silhouette Romance , No 1295)","Arlene James",1998,Silhouette,available,NULL
+689300964,"Who, Said Sue, Said Whoo?","Ellen Raskin",1973,"Simon &amp; Schuster (J)",available,NULL
+1562800868,"The First Time Ever: Love Stories by Naiad Press Authors","Barbara Grier",1995,"Naiad Pr",available,NULL
+1558684255,"Culture Shock! Successful Living Abroad: A Parent's Guide","Robin Pascoe",1999,"Graphic Arts Center Publishing Company",available,NULL
+373254547,"Naughty Thoughts (Harlequin Temptation, No 354)","Dawn Carroll",1991,Harlequin,available,NULL
+1568655878,"Petals on the River","Kathleen E. Woodiwiss",1997,"GuildAmerica Books",available,NULL
+451451759,Afterimage,"Kristine Kathryn Rusch",1992,"New Amer Library",available,NULL
+1560250453,"Contract Killer: The Explosive Story of the Mafia's Most Notorious Hitman Donald \Tony the Greek\" Frankos"""","William Hoffman",1993,"Pub Group West",available,NULL
+71377247,"Living Aboard Your RV","Gordon  Groene",2001,"International Marine/Ragged Mountain Press",available,NULL
+2005018,"Clara Callan","Richard Bruce Wright",2001,"HarperFlamingo Canada",avaliable,NULL
+312252617,"Fast Women","Jennifer Crusie",2001,"St. Martin's Press",avaliable,NULL
